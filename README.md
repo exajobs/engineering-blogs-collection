@@ -1,1 +1,1 @@
-# Engineering Blogs Collection
+# Software Engineering Blogs Collection
