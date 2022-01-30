@@ -1,5 +1,5 @@
 # Software Engineering Blogs Collection
-> An ongoing curated list of awesome engineering blog and articles, talks, libraries, learning tutorials, design practices and technical resources about modern software engineering development. Thanks to our daily readers and contributors. The goal is to build a categorized community-driven collection of very well-known resources. Sharing, suggestions and contributions are always welcome!
+> An ongoing curated list of awesome engineering blogs and articles, talks, libraries, learning tutorials, design practices and technical resources about modern software engineering development. Thanks to our daily readers and contributors. The goal is to build a categorized community-driven collection of very well-known resources. Sharing, suggestions and contributions are always welcome!
 
 
 ### [Companies](#companies-1)
